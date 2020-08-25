@@ -1,0 +1,23 @@
+[
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "ATAL",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-57.53611111, -35.01527778]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "ESPE",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-56.99583333, -63.3952777777778]
+        }
+      }
+    ]
+  }
+]
